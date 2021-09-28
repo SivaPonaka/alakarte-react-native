@@ -1,0 +1,5 @@
+export const itemsConstants = {
+  GET_ITEMS: "GET_ITEMS",
+  GET_ITEMS_ON_SUCCESS: "GET_ITEMS_ON_SUCCESS",
+  GET_ITEMS_ON_FAILURE: "GET_ITEMS_ON_FAILURE",
+};
